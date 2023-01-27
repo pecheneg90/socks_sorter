@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SocksSorterApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SocksSorterApplication.class, args);
+        SpringApplication
+                .run(SocksSorterApplication.class, args);
     }
-
 }
